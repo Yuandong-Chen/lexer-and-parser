@@ -1,0 +1,6 @@
+* How to run the test *
+> make
+
+minilexer and LR(1) parser written in C++11
+next version would be GLR parser for modern compiler
+Not supported on gcc(ECMAScript RE seems not be implemented yet).
